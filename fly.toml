@@ -16,6 +16,7 @@ processes = []
   LOG_LEVEL = "info"
   LOG_STDERR_FORMATTER = "Monolog\\Formatter\\JsonFormatter"
   APP_URL = "https://poc-td.fly.dev"
+  APP_KEY = "base64:c4QJiR3nVSamlIVVlZxTOvh00PSPupoiQwoZZJiprmw="
 
 [experimental]
   auto_rollback = true
